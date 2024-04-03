@@ -23,4 +23,6 @@ This version is not realistic because values in the hiearchies often vary in tim
 - Yesterday For Today (Type 3): data is interpreted based on the configuration of the valid hierarchy in a particular instant. Requires data historicity.
 - Today AND Yesterday: like Type 3 but limited to data that have never been modified. Requires data historicity.
 
-Example Type 1: I have a sales manager in 2001 for each IT sales, in 2011 a new employee replaces our older manager, one can think that the new employee has always been the sales manager over the IT department.
+Example Type 1: I have a sales manager in 2001 for each IT sales, in 2011 a new employee replaces our older manager, one can think that the new employee has always been the sales manager over the IT department. It is usually the solution given when we insert wrong data inside the DB.
+
+Example Type 2: Same situation as example 1 but we simply add a new record, the older information is not discarded
