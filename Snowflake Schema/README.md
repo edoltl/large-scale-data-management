@@ -21,7 +21,7 @@ This version is not realistic because values in the hiearchies often vary in tim
 - Today For Yesterday (Type 1): data is interpreted based on the actual hierarchy configuration. It is implemented on the Star Schema.
 - Today Or Yesterday (Type 2): data is interpreted based on the valid configuration from the time it was registered. It is implemented on the Star Schema.
 - Yesterday For Today (Type 3): data is interpreted based on the configuration of the valid hierarchy in a particular instant. Requires data historicity.
-- Today AND Yesterday: like Type 3 but limited to data that have never been modified. Requires data historicity.
+- Today AND Yesterday: Type 3 but limited to data that have never been modified. Requires data historicity.
 
 Example Type 1: I have a sales manager in 2001 for each IT sales, in 2011 a new employee replaces our older manager, one can think that the new employee has always been the sales manager over the IT department. It is usually the solution given when we insert wrong data inside the DB.
 
