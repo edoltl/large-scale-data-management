@@ -1,5 +1,5 @@
 # Large Scale Data Management
-Exercises and project for the university course "Large Scale Data Management"
+Exercises for the university course "Large Scale Data Management"
 
 # Practical 1:
 ## Exercise 1 - Dimensional Fact Model:
