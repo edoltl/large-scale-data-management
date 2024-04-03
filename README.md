@@ -15,8 +15,11 @@ A brand of cinema want to implement a Data Mart for the analysis of ticket sales
 - Analysis on the chosen modes of programmation and projection (timetable, intervals, 3D, language...)
 - Analysis on sales channels (online, physical,...)
 - Analysis on sales to gain a better understanding of the best programmation and projection metodologies
+
 Fact: ticket sales
+
 Dimension: screen, show, movie, sale channel, sale date
+
 Measures:
 - Amount of takings
 - Quantity of sold tickets
