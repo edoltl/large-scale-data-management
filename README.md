@@ -1,4 +1,4 @@
-# Large Scale Data Management
+<img width="474" alt="star schema" src="https://github.com/edoltl/large-scale-data-management/assets/117369447/479d38a0-5148-4158-86d3-e8f6f6f01f81"># Large Scale Data Management
 Exercises for the university course "Large Scale Data Management"
 
 # Practical 1:
@@ -29,3 +29,5 @@ Measures:
 - Quantity of sold tickets
 ### Solution:
 ![es1_e2](https://github.com/edoltl/large-scale-data-management/assets/117369447/dfe99e93-34c2-4bc8-b1f8-8578f53eba61)
+# Practical 2: Star-Schema
+A Star-Schema is a logical implementation of a Datawarehouse (or an individual Data Mart). We use the ROLAP Star-Schema, similar to the relational model. Here are some examples:
