@@ -67,4 +67,5 @@ From Exercise 3, let's snowflake "città" (cities) furtherly to separate provinc
 - each attribute of the city table occupies 100 bytes
 - each nation has a number of 10 thousand cities and 20 regions (circa)
 ### Solution:
+![image](https://github.com/edoltl/large-scale-data-management/assets/117369447/f3717c1c-29b4-41e2-ae53-6f2c978f7dcb)
 
