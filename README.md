@@ -69,7 +69,7 @@ From Exercise 3, let's snowflake "città" (cities) furtherly to separate provinc
 ### Solution:
 ![image](https://github.com/edoltl/large-scale-data-management/assets/117369447/f3717c1c-29b4-41e2-ae53-6f2c978f7dcb)
 
-# Practical 3:
+# Practical 3: Still on Snowflakes
 ## Exercise 1: Detecting SCD (Slowly Changing Dimension)
 From:
 
