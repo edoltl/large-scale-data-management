@@ -59,5 +59,5 @@ who worked the most as tutors for incoming personnel
 ![query2](https://github.com/edoltl/large-scale-data-management/assets/117369447/87201387-2af0-41ee-8cf5-f8104a842bba)
 ## Exercise 2 - From DFM To Star-Schema:
 ![es2_e3-dfm](https://github.com/edoltl/large-scale-data-management/assets/117369447/cc32f3cf-b370-492c-ae1d-eaec14e85ef7)
-### Solution:
+### Solution - Snowflake-Schema:
 ![es2_es3](https://github.com/edoltl/large-scale-data-management/assets/117369447/fc7e44a1-96cd-44c0-9757-f8ad2f52ced8)
