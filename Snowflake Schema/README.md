@@ -17,8 +17,8 @@ We can discuss about advanced logic schemas:
 # How to manage the dinamicity of hierarchies
 MOLAP and ROLAP Snowflakes assume that the events instantiating a Fact are dynamicals and the values populating the hierarchies are statics.
 
-This version is not realistic because values in the hiearchies often vary in time, giving life to dynamic hierarchies. The adoption of this type of hierarchy may imply a strong reduction of performances. We have a list of solutions:
+This version is not realistic because values in the hiearchies often vary in time, giving life to dynamic hierarchies. The adoption of this type of hierarchy may imply a strong reduction of performances. We have a list of solutions (3):
 - Today For Yesterday (Type 1): data is interpreted based on the actual hierarchy configuration. It is implemented on the Star Schema.
 - Today Or Yesterday (Type 2): data is interpreted based on the valid configuration from the time it was registered. It is implemented on the Star Schema.
 - Yesterday For Today (Type 3): data is interpreted based on the configuration of the valid hierarchy in a particular instant. Requires data historicity.
-- Today AND Yesterday (Type 4): like Type 3 but limited to data that have never been modified. Requires data historicity.
+- Today AND Yesterday: like Type 3 but limited to data that have never been modified. Requires data historicity.
