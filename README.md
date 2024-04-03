@@ -78,5 +78,7 @@ From:
 ### Solution:
 ![image](https://github.com/edoltl/large-scale-data-management/assets/117369447/c5068d0d-81fd-4bc3-8ce6-ad657448a288)
 ![image](https://github.com/edoltl/large-scale-data-management/assets/117369447/1aec0922-501d-490f-b678-e0d500c19ddd)
+![image](https://github.com/edoltl/large-scale-data-management/assets/117369447/0f0fa92f-2537-4093-b516-19d668b11686)
+
 
 
