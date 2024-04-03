@@ -32,10 +32,13 @@ Measures:
 # Practical 2: Star-Schema
 A Star-Schema is a logical implementation of a Datawarehouse (or an individual Data Mart). We use the ROLAP Star-Schema, similar to the relational model. Here are some examples:
 
-<img width="474" alt="star schema" src="https://github.com/edoltl/large-scale-data-management/assets/117369447/aaa6bab4-5cd8-421e-b468-d3330a7ee6d7">
-<img width="512" alt="star schema2" src="https://github.com/edoltl/large-scale-data-management/assets/117369447/108bdbb8-d2a0-436a-a55f-0de3f0412f75">
-<img width="500" alt="queryOlap" src="https://github.com/edoltl/large-scale-data-management/assets/117369447/b6dc13dd-23d3-4247-8ddb-0dd69d35608f">
-<img width="480" alt="junkdim" src="https://github.com/edoltl/large-scale-data-management/assets/117369447/2569c155-6c70-4791-af61-89da1f9d244c">
-<img width="502" alt="gerarchiacondivisa" src="https://github.com/edoltl/large-scale-data-management/assets/117369447/c182ca29-dfd6-4f18-8a6c-d872fa66f380">
-<img width="496" alt="attr cross dim" src="https://github.com/edoltl/large-scale-data-management/assets/117369447/1a687bc2-9a1b-4c5b-b99d-67421675366e">
-<img width="500" alt="attr cross dim2" src="https://github.com/edoltl/large-scale-data-management/assets/117369447/35a5eb49-37d8-4720-b544-25f33c7da357">
+![star schema](https://github.com/edoltl/large-scale-data-management/assets/117369447/aaa6bab4-5cd8-421e-b468-d3330a7ee6d7)
+![star schema2](https://github.com/edoltl/large-scale-data-management/assets/117369447/108bdbb8-d2a0-436a-a55f-0de3f0412f75)
+![queryOlap](https://github.com/edoltl/large-scale-data-management/assets/117369447/b6dc13dd-23d3-4247-8ddb-0dd69d35608f)
+![junkdim](https://github.com/edoltl/large-scale-data-management/assets/117369447/2569c155-6c70-4791-af61-89da1f9d244c)
+![gerarchiacondivisa](https://github.com/edoltl/large-scale-data-management/assets/117369447/c182ca29-dfd6-4f18-8a6c-d872fa66f380)
+![attr cross dim](https://github.com/edoltl/large-scale-data-management/assets/117369447/1a687bc2-9a1b-4c5b-b99d-67421675366e)
+![attr cross dim2](https://github.com/edoltl/large-scale-data-management/assets/117369447/35a5eb49-37d8-4720-b544-25f33c7da357)
+
+## Exercise 1 - From DFM To Star-Schema:
+![es2_es1](https://github.com/edoltl/large-scale-data-management/assets/117369447/8f3e7051-a346-49ae-88ca-9ae01e90a60a)
