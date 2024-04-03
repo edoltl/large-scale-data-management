@@ -41,4 +41,6 @@ A Star-Schema is a logical implementation of a Datawarehouse (or an individual D
 ![attr cross dim2](https://github.com/edoltl/large-scale-data-management/assets/117369447/35a5eb49-37d8-4720-b544-25f33c7da357)
 
 ## Exercise 1 - From DFM To Star-Schema:
+![es2_e1-dfm](https://github.com/edoltl/large-scale-data-management/assets/117369447/c39c999e-0ca1-4275-9f0d-48f50b2720c6)
+### Solution:
 ![es2_es1](https://github.com/edoltl/large-scale-data-management/assets/117369447/8f3e7051-a346-49ae-88ca-9ae01e90a60a)
