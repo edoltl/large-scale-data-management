@@ -31,6 +31,7 @@ Measures:
 ![es1_e2](https://github.com/edoltl/large-scale-data-management/assets/117369447/dfe99e93-34c2-4bc8-b1f8-8578f53eba61)
 # Practical 2: Star-Schema
 A Star-Schema is a logical implementation of a Datawarehouse (or an individual Data Mart). We use the ROLAP Star-Schema, similar to the relational model. Here are some examples:
+
 <img width="474" alt="star schema" src="https://github.com/edoltl/large-scale-data-management/assets/117369447/aaa6bab4-5cd8-421e-b468-d3330a7ee6d7">
 <img width="512" alt="star schema2" src="https://github.com/edoltl/large-scale-data-management/assets/117369447/108bdbb8-d2a0-436a-a55f-0de3f0412f75">
 <img width="500" alt="queryOlap" src="https://github.com/edoltl/large-scale-data-management/assets/117369447/b6dc13dd-23d3-4247-8ddb-0dd69d35608f">
