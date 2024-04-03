@@ -25,4 +25,4 @@ This version is not realistic because values in the hiearchies often vary in tim
 
 Example Type 1: I have a sales manager in 2001 for each IT sales, in 2011 a new employee replaces our older manager, one can think that the new employee has always been the sales manager over the IT department. It is usually the solution given when we insert wrong data inside the DB.
 
-Example Type 2: Same situation as example 1 but we simply add a new record, the older information is not discarded
+Example Type 2: Same situation as example 1 but we simply add a new record, the older information is not discarded. Disadvantage: occupied space.
