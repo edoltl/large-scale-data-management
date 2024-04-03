@@ -28,4 +28,5 @@ Example Type 1: I have a sales manager in 2001 for each IT sales, in 2011 a new 
 Example Type 2: Same situation as example 1 but we simply add a new record, the older information is not discarded. Disadvantage: occupied space.
 
 Example Type 3: the most flexible type. 
+
 ![image](https://github.com/edoltl/large-scale-data-management/assets/117369447/6af23cee-0b18-4fb8-97b2-08468892db3a)
