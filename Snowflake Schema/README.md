@@ -1,7 +1,10 @@
 # Snowflake Schemas Guidelines:
-Partendo dalle gerarchie condivise:
+Following these shared hierarchies:
+
 <img width="641" alt="gerarchiaPerSnowflake" src="https://github.com/edoltl/large-scale-data-management/assets/117369447/c919a2e6-3a12-4bb9-b132-fd79f307fcb9">
-Possiamo parlare di progettazione logica avanzata:
+
+We can discuss about advanced logic schemas:
+
 ![image](https://github.com/edoltl/large-scale-data-management/assets/117369447/8d92dfdf-3f14-4f9a-8ec4-57bc3ad1670a)
 ![image](https://github.com/edoltl/large-scale-data-management/assets/117369447/18a56314-0918-4cb7-8d98-7d8e433c754a)
 ![image](https://github.com/edoltl/large-scale-data-management/assets/117369447/a640c370-781e-46da-ad89-9d3ee8f6a429)
