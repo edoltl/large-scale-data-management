@@ -55,3 +55,5 @@ To be noted2: In this example the date is a natural key. OLAP usuallly works wit
 who worked the most as tutors for incoming personnel
 - Compute the number of visitors in order of sex in the last 10 years
 ### Solution:
+![query1](https://github.com/edoltl/large-scale-data-management/assets/117369447/c75e422b-6184-48db-b866-3fb307450f63)
+![query2](https://github.com/edoltl/large-scale-data-management/assets/117369447/87201387-2af0-41ee-8cf5-f8104a842bba)
