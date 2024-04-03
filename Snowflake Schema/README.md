@@ -30,3 +30,6 @@ Example Type 2: Same situation as example 1 but we simply add a new record, the 
 Example Type 3: the most flexible type, we can model each possible scenario. Important: Look at the Master Column.
 
 ![image](https://github.com/edoltl/large-scale-data-management/assets/117369447/6af23cee-0b18-4fb8-97b2-08468892db3a)
+# Recap
+![image](https://github.com/edoltl/large-scale-data-management/assets/117369447/a976f027-cefe-40b0-8604-02b6c5e38708)
+
