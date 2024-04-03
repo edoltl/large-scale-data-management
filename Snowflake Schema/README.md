@@ -20,9 +20,12 @@ MOLAP and ROLAP Snowflakes assume that the events instantiating a Fact are dynam
 This version is not realistic because values in the hiearchies often vary in time, giving life to dynamic hierarchies. The adoption of this type of hierarchy may imply a strong reduction of performances. We have a list of solutions (3):
 - Today For Yesterday (Type 1): data is interpreted based on the actual hierarchy configuration. It is implemented on the Star Schema.
 - Today Or Yesterday (Type 2): data is interpreted based on the valid configuration from the time it was registered. It is implemented on the Star Schema.
-- Yesterday For Today (Type 3): data is interpreted based on the configuration of the valid hierarchy in a particular instant. Requires data historicity.
-- Today AND Yesterday: Type 3 but limited to data that have never been modified. Requires data historicity.
+- Yesterday For Today (Type 3): data is interpreted based on the configuration of the valid hierarchy in a particular instant. Requires data historicity & timestamp. Cannot be implemented on the Star Schema.
+- Today AND Yesterday: Type 3 but limited to data that have never been modified.
 
 Example Type 1: I have a sales manager in 2001 for each IT sales, in 2011 a new employee replaces our older manager, one can think that the new employee has always been the sales manager over the IT department. It is usually the solution given when we insert wrong data inside the DB.
 
 Example Type 2: Same situation as example 1 but we simply add a new record, the older information is not discarded. Disadvantage: occupied space.
+
+Example Type 3: the most flexible type. 
+![image](https://github.com/edoltl/large-scale-data-management/assets/117369447/6af23cee-0b18-4fb8-97b2-08468892db3a)
