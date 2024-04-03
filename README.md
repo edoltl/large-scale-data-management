@@ -48,3 +48,10 @@ A Star-Schema is a logical implementation of a Datawarehouse (or an individual D
 To be noted1: Programma di Mobility (Mobilitation Program), Ruolo (Role), Attività Svolta (performed activity) can be considered Junk Dimension, hence one can model one new table out of these junks.
 
 To be noted2: In this example the date is a natural key. OLAP usuallly works with surrogated keys, but it is also usually preferred to maintain dates as natural keys because in this way you don't have to run a JOIN to get the date, already embedded in the Fact Table.
+## Exercise 2 - Queries on Exercise 1:
+- Compute the mean index of satisfaction of visitors arrived between the academic year 2011-12 and the academic year 2013-14
+- Compute the total cost for students arrived from european countries in the last 5 years
+- Select the top 3 professors (id, name, surname) from the Science Department
+who worked the most as tutors for incoming personnel
+- Compute the number of visitors in order of sex in the last 10 years
+### Solution:
