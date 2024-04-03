@@ -61,3 +61,10 @@ who worked the most as tutors for incoming personnel
 ![es2_e3-dfm](https://github.com/edoltl/large-scale-data-management/assets/117369447/cc32f3cf-b370-492c-ae1d-eaec14e85ef7)
 ### Solution - Snowflake-Schema:
 ![es2_es3](https://github.com/edoltl/large-scale-data-management/assets/117369447/fc7e44a1-96cd-44c0-9757-f8ad2f52ced8)
+## Exercise 4 - From Exercise 3:
+From Exercise 3, let's snowflake "città" (cities) furtherly to separate provinces and regions, we want to compute how many space (bytes) we can save using the Snowflake Schema, considering:
+- the number of registered cities is 200 thousand circa
+- each attribute of the city table occupies 100 bytes
+- each nation has a number of 10 thousand cities and 20 regions (circa)
+### Solution:
+
