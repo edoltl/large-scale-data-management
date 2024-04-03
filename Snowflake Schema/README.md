@@ -1,1 +1,2 @@
-ciao
+# Snowflake Schemas Guidelines:
+
