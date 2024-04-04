@@ -83,4 +83,6 @@ From:
 # Practical 4: ODS (Operational Data Store), Progettazione del livello riconciliato
 ![image](https://github.com/edoltl/large-scale-data-management/assets/117369447/ebc17b09-dab4-4e45-98e1-f86db290f69e)
 ![image](https://github.com/edoltl/large-scale-data-management/assets/117369447/5b02c613-b318-445e-ad14-74916ecf806c)
+![image](https://github.com/edoltl/large-scale-data-management/assets/117369447/d1954f05-9f90-429a-a0cc-bf1d2acf55a1)
+
 
